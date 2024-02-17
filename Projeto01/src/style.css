@@ -1,0 +1,35 @@
+  * {
+    background-color: rgb(229, 229, 229);
+  }
+
+
+
+  #img1 {
+    display: flex;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #decoration {
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+  }
+
+
+
+  footer {
+    display: flex;
+    gap: 0 15px;
+    color: rgb(255, 153, 0);
+    justify-content: center;
+    align-items: center;
+    padding: 30px 50px;
+
+  }
+
+  footer, a {
+    color: rgb(255, 153, 0);
+
+  }
